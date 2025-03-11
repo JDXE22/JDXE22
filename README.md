@@ -30,7 +30,7 @@ Deploy Link: https://front-pf-vets-for-pets-main.vercel.app/
 
 **About the App**:
 
-VetsForPets is an innovative web platform designed to connect pet owners 🐾 with nearby veterinarians 🏥. The app simplifies pet care by allowing users to register their pets, find veterinary services using an interactive map, schedule appointments, and access emergency assistance. Users can also benefit from a rewards system that offers discounts on medical consultations, vaccines, and pet care services.
+VetsForPets is an innovative web platform designed to connect pet owners with nearby veterinarians. The app simplifies pet care by allowing users to register their pets, find veterinary services using an interactive map, schedule appointments, and access emergency assistance. Users can also benefit from a rewards system that offers discounts on medical consultations, vaccines, and pet care services.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📚 Currently Exploring
 I'm always exploring new trends in technology and continuously improving my skills, focusing on system scalability and software architecture.
