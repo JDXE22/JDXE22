@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer from Colombia with a deep enthusiasm for t
 - **Databases:** PostgreSQL, MongoDB
 - **Security:** JWT
 
-## 🚀 Skills
+## 🚀 Tech Skills
 - **Backend Development:** Building RESTful APIs, microservices, and authentication systems.
 - **Frontend Development:** Interactive user interfaces with React.
 - **Database Management:** Expertise with relational (PostgreSQL) and non-relational (MongoDB) databases.
@@ -40,5 +40,5 @@ I'm always exploring new trends in technology and continuously improving my skil
 - **Discord:** juandavid_35956
 - **Email:** davidesparzaj22@gmail.com
 
-Feel free to reach out—I'm open to collaborations and excited about opportunities to innovate together!
+Feel free to reach out—I'm open to collaborations and excited about opportunities to innovate together! 
 
