@@ -38,5 +38,5 @@ I'm always exploring new trends in technology and continuously improving my skil
 - **Discord:** juandavid_35956
 - **Email:** davidesparzaj22@gmail.com
 
-Feel free to reach out—I'm open to collaborations and excited about opportunities to innovate together! 
+Feel free to reach out—I'm open to collaborations and excited about opportunities to innovate together!
 
