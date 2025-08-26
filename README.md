@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer from Colombia with a deep enthusiasm for t
 - **Security:** JWT
 
 ## 🚀 Tech Skills
-- **Backend Development:** Building RESTful APIs, microservices or MVC models, and authentication systems.
+- **Backend Development:** Building RESTful APIs, microservices and authentication systems.
 - **Frontend Development:** Interactive user interfaces with React.
 - **Database Management:** Expertise with relational (PostgreSQL) and non-relational (MongoDB) databases.
 - **DevOps:** Docker for containerization and efficient deployment practices.
