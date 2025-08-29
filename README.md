@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer from Colombia with a deep enthusiasm for t
 - **Backend**: Express.js, NestJS
 - **Frontend**: React, Next JS, Tailwind CSS
 - **Languages**: TypeScript, JavaScript
-- **Tools & Technologies:** Docker, Swagger, Stripe, JWT, Docker
+- **Tools & Technologies:** Docker, Swagger, Stripe, JWT
 - **ORMs:** TypeORM
 - **API Documentation:** Swagger
 - **Databases:** PostgreSQL, MongoDB
