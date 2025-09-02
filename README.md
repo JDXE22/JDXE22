@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer from Colombia with a deep enthusiasm for t
 - **ORMs:** TypeORM
 - **API Documentation:** Swagger
 - **Databases:** PostgreSQL, MongoDB
-- **Security:** JWT
+- **Security:** JWT, Auth0
 
 ## 🚀 Tech Skills
 - **Backend Development:** Building RESTful APIs, microservices and authentication systems.
