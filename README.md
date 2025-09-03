@@ -34,7 +34,7 @@ I'm always exploring new trends in technology and continuously improving my skil
 
 
 ## 📫 Let's Connect!
-- **LinkedIn:** (www.linkedin.com/in/juan-david-esparza-castillo-7a181a1a7)
+- **LinkedIn:** (www.linkedin.com/in/juan-david-esparza-castillo)
 - **Discord:** juandavid_35956
 - **Email:** davidesparzaj22@gmail.com
 
