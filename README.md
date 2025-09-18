@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm David Esparza
+# Hi there, I'm David Esparza
 
 ## 🌎 About Me
 I'm a passionate Full Stack Developer from Colombia with a deep enthusiasm for technology and programming. I thrive on building scalable, efficient, and user-friendly applications.
