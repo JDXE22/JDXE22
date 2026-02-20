@@ -14,6 +14,13 @@ https://front-pf-vets-for-pets-main.vercel.app/ (you can also find in my linkedi
 
 I’ve built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best coding practices. Currently, I am working on my first portfolio, and I am really excited because it is soon to be released.
 
+## A Bit About Me
+
+- I have one cat named Pan (yes, I like DBZ).
+- I’m into anime—Hunter x Hunter is a favorite.
+- I’m a huge UFC fan.
+- I like building software that is useful and easy to understand.
+
 - **Discord:** juandavid_35956
 - **Email:** davidesparzaj22@gmail.com
 
