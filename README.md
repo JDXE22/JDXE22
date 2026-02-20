@@ -14,8 +14,6 @@ https://front-pf-vets-for-pets-main.vercel.app/ (you can also find in my linkedi
 
 I’ve built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best coding practices. Currently, I am working on my first portfolio, and I am really excited because it is soon to be released.
 
-## If you’d like to connect with me, you can find me on Discord or reach out via email. You can also find my LinkedIn on this profile.
-
 - **Discord:** juandavid_35956
 - **Email:** davidesparzaj22@gmail.com
 
