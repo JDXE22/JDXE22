@@ -12,7 +12,7 @@ Soon you’ll see more projects pinned, but my favorite is [Vets4Pets](https://g
 
 https://front-pf-vets-for-pets-main.vercel.app/ (you can also find in my linkedin pictures about this same project)
 
-I’ve built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best coding practices. Currently, I am working on my first portfolio, and I am really excited because it is soon to be released.
+I’ve built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best coding practices.I am also working on my first portfolio, and I am really excited because it is soon to be released.
 
 ## A Bit About Me
 
