@@ -1,4 +1,4 @@
-# Hi there, fellas!
+# Hi there!
 
 I'm David Esparza, a sofware developer based in Colombia.
 
