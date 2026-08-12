@@ -8,9 +8,13 @@ If there’s a task or process that is not working efficiently, chances are I’
 
 My main tech stack is more backend-focused, but don’t be fooled—I also find building well-designed front ends interesting. The languages I use are JavaScript and TypeScript. My favorite tools are NestJS, React, Next.js, Node.js, and Tailwind. I’ve also used Bootstrap, Ant Design, and CSS for design in the past. For testing, I’m familiar with unit and e2e tests using Jest.
 
-Here are some of the projects I've worked on, [Vets4Pets](https://github.com/JDXE22/Front-PF-VetsForPets),where I had the role of backend software developer. We also have the [Filmmaker](https://github.com/JDXE22/Portfolio-DG portfolio)](https://github.com/JDXE22/Portfolio-DG) built with Astro, this was a personal project from one of my clients.
+Here are some of the projects I've worked on:
 
+- **[Vets4Pets](https://github.com/JDXE22/Front-PF-VetsForPets)** - A comprehensive veterinary clinic management platform where I served as the backend software developer. The system handles appointment scheduling, patient records, and clinic operations to streamline pet healthcare services.
 
+- **[Filmmaker](https://github.com/JDXE22/Portfolio-DG.git)** - A portfolio platform designed for filmmakers to showcase their work, manage projects, and connect with collaborators in the film industry.
+
+I've built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best practices for cloud infrastructure.
 I’ve built more private than public repositories because I like to stay up to date and explore ideas when working with new technologies or concepts. Currently, I am learning AWS operations and best coding practices. I am also working on my first portfolio, and I am really excited because it is soon to be released.
 
 ## A Bit About Me
